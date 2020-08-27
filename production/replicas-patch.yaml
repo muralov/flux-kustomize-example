@@ -6,4 +6,4 @@ metadata:
   namespace: demo
 spec:
   minReplicas: 1
-  maxReplicas: 4
+  maxReplicas: 2
